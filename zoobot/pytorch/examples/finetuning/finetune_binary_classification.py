@@ -6,6 +6,7 @@ from galaxy_datasets import demo_rings
 from galaxy_datasets.pytorch.galaxy_datamodule import GalaxyDataModule
 
 
+
 if __name__ == '__main__':
 
     logging.basicConfig(level=logging.INFO)
